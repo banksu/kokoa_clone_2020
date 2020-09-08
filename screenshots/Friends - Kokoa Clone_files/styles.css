@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;1,200&display=swap");
+@import "reset.css";
+@import "variables.css";
+
+/*Components*/
+@import "components/status-bar.css";
+@import "components/nav-bar.css";
+
+/*Screens*/
+@import "screens/login.css";
+
+body {
+  font-family: "Titillium Web", sans-serif;
+}
