@@ -1,0 +1,4 @@
+.chats__column {
+  display: flex;
+  justify-content: space-between;
+}

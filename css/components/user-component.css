@@ -18,6 +18,7 @@
 .user-component__username {
   font-weight: bold;
   font-size: 20px;
+  color: rgba(0, 0, 0, 0.9);
 }
 
 .user-component__subtitle {
