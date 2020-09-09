@@ -9,7 +9,9 @@
 
 /*Screens*/
 @import "screens/login.css";
+@import "screens/friends.css";
 
 body {
+  color: #2f363e;
   font-family: "Titillium Web", sans-serif;
 }

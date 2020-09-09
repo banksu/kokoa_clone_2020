@@ -4,9 +4,6 @@
   align-items: center;
   margin-top: 25px;
   padding: 25px;
-  position: fixed;
-  top: 0px;
-  width: 100%;
   box-sizing: border-box;
 }
 
