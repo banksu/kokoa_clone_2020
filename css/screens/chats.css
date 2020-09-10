@@ -2,3 +2,15 @@
   display: flex;
   justify-content: space-between;
 }
+
+.chatst__column__time {
+  margin-bottom: 5px;
+  display: block;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.chatst__column {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
