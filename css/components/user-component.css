@@ -57,3 +57,15 @@
 .user-component__title__chats-screen {
   font-size: 20px;
 }
+
+.user-component__column__fropile-music {
+  color: #82c91e;
+  padding: 7px 10px;
+  border: 1px solid;
+  border-radius: 10% / 50%;
+  font-size: 70%;
+}
+
+.user-component__column__fropile-music i {
+  margin-left: 3px;
+}
