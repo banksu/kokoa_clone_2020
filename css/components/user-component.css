@@ -1,5 +1,5 @@
 .user-component {
-  justify-content: space-between;
+  display: flex;
 }
 
 .user-component,
@@ -15,16 +15,15 @@
   margin-right: 20px;
 }
 
-.user-component__username {
+.user-component__title {
   font-weight: bold;
-  font-size: 20px;
-  color: rgba(0, 0, 0, 0.9);
+  font-size: 22px;
 }
 
 .user-component__subtitle {
   margin-top: 8px;
   color: rgba(0, 0, 0, 0.5);
-  font-size: 14px;
+  font-size: 17px;
 }
 
 .user-component__avatar--xl {
@@ -35,16 +34,4 @@
 .user-component__avatar--sm {
   width: 60px;
   height: 60px;
-}
-
-.user-component__username__channel {
-  font-size: 15px;
-}
-
-.user-component__username--not--bold {
-  font-weight: 400;
-}
-
-.user-component__column:last-child {
-  color: rgba(0, 0, 0, 0.5);
 }
