@@ -7,6 +7,7 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/badge.css";
 
 /*Screens*/
 @import "screens/login.css";
@@ -20,8 +21,6 @@ body {
   font-family: "Titillium Web", sans-serif;
 }
 
-/*
-.main-screen{
-  padding : 0px var(--horizontal-space)
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
-*/

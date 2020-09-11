@@ -18,13 +18,13 @@
   color: #2f363e;
 }
 
-.nav__nitification {
+.nav__notification {
   position: absolute;
   left: 17px;
   bottom: 17px;
 }
 
-.nav__circle {
+.nav__point {
   background-color: tomato;
   width: 7px;
   height: 7px;
