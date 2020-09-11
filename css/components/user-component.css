@@ -59,13 +59,14 @@
 }
 
 .user-component__column__fropile-music {
-  color: #82c91e;
+  color: rgba(0, 0, 0, 0.5);
   padding: 7px 10px;
-  border: 1px solid;
+  border: 1px solid #82c91e;
   border-radius: 10% / 50%;
   font-size: 70%;
 }
 
 .user-component__column__fropile-music i {
   margin-left: 3px;
+  color: #82c91e;
 }

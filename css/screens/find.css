@@ -1,0 +1,56 @@
+.screen-header__icons__point {
+  position: relative;
+}
+
+.find-icons {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 5px;
+}
+
+.find-icons__icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 17px;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.find-icons__icon i {
+  font-size: 33px;
+}
+
+.find-icons__icon span {
+  margin-top: 18px;
+}
+.find-screen__header {
+  padding: 15px 0px;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  justify-content: space-between;
+}
+
+.find-screen__first__inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 110px 0px;
+  margin-bottom: 10px;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 18px;
+}
+.find-screen__first {
+  margin-bottom: 25px;
+}
+
+.find-screen__second {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__goto {
+  font-weight: 500;
+}
