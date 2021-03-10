@@ -1,8 +1,31 @@
-.find-icons__more,
+.more-screen .user-component {
+  margin-bottom: 40px;
+}
+
 .suggestions {
-  margin: 40px 15px;
+  margin: 25px 5px;
 }
 .more-screen__header {
   padding: 20px 0px;
-  border-top: ;
+  border-top: var(--gray-bar);
+}
+
+.fa-comment-alt {
+  margin-right: 13px;
+}
+
+.fake {
+  color: white;
+}
+
+.more__suggestions {
+  width: 55px;
+  height: 55px;
+  margin-top: -10px;
+  margin-bottom: -5px;
+  border-radius: 7px;
+}
+
+.suggestions span {
+  font-size: 15px;
 }

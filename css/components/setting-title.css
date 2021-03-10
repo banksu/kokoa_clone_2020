@@ -1,0 +1,43 @@
+.setting-title {
+  width: 100%;
+  padding: 18px 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: center;
+}
+
+.setIcon {
+  padding: 10px;
+  margin-right: 12px;
+  opacity: 0.8;
+}
+
+.setting-title__section {
+  width: 100%;
+  margin-top: -20px;
+  margin-bottom: 50px;
+  border-bottom: rgba(0, 0, 0, 0.3);
+  font-size: 18px;
+}
+
+.setting-title__section .setting-title:last-child {
+  border-color: rgba(0, 0, 0, 0.15);
+  padding-bottom: 50px;
+}
+
+.fa-volume-off {
+  font-size: 26px;
+}
+
+.new {
+  margin-left: 6px;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  background-color: tomato;
+  color: white;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

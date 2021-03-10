@@ -9,13 +9,15 @@
 @import "components/user-component.css";
 @import "components/badge.css";
 @import "components/content-box.css";
+@import "components/icon-raw.css";
+@import "components/setting-title.css";
 
 /*Screens*/
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
 @import "screens/more.css";
-
+@import "screens/chat-screen.css";
 body {
   color: #2f363e;
   font-family: "Titillium Web", sans-serif;
@@ -23,5 +25,13 @@ body {
 
 .main-screen {
   padding: 0px var(--horizontal-space);
-  margin-bottom: 55px;
+  margin-bottom: 80px;
+}
+
+main {
+  margin-bottom: 100px;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
